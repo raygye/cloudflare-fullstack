@@ -1,5 +1,5 @@
 //Renkui (Gary) Ye
-//gary.ye@uwaterloo.ca, 6472301872
+//gary.ye@uwaterloo.ca
 //All tasks completed, including extra credit, excluding publishing to a domain
 
 //Extra Credit 1. Changing copy/URLs
